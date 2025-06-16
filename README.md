@@ -1,4 +1,4 @@
-# Lynx Studio
+# Lynx Studio Website Prototype
 
 🔗 [Live Preview](https://lynx-studio.vercel.app)
 
