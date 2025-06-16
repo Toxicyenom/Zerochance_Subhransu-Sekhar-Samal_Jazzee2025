@@ -12,7 +12,7 @@ This is just a prototype — not the final product.
 - Click **"Get started"** or **"Try Lynx Studio"** to upload a Figma link or image and run the demo
 
 ---
-- ### 🎥 YouTube Demo
+- ### 🎥 YouTube Video link For Project Presentation:
 
-[Watch the project presentation](YOUR_YOUTUBE_LINK_HERE)
+[Watch the project presentation]([YOUR_YOUTUBE_LINK_HERE](https://youtu.be/Tu94Th68Xbw?si=9mL_W7k4ylyN3IiJ))
 
