@@ -14,5 +14,5 @@ This is just a prototype — not the final product.
 ---
 - ### 🎥 YouTube Video link For Project Presentation:
 
-[Watch the project presentation](https://youtu.be/Tu94Th68Xbw?si=9mL_W7k4ylyN3IiJ)
+[Zerochance_Subhransu_Sekhar_Samal_Jazzee2025_PitchVideo](https://youtu.be/Tu94Th68Xbw?si=9mL_W7k4ylyN3IiJ)
 
